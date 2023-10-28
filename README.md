@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A selftaught fullstack developer trying become better every day.</h3>
 
-- 🌱 I’m currently learning **Nuxt3**
+- 🌱 I’m currently learning **Nuxt3** and working on BarkRescue
 
 
 <h3 align="left">Languages</h3>
