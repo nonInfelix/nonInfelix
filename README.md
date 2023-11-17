@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **Nuxt3** & **PostgreSQL**, working on BarkRescue
 
+![nonInfelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nonInfelix&theme=vue-dark&hide_border=true)
 
 <h3 align="left">Languages</h3>
 <p align="left">
