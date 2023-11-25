@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A selftaught fullstack developer trying become better every day.</h3>
 
-- 🌱 I’m currently learning **Nuxt3** & **PostgreSQL**, working on BarkRescue
-
 ![nonInfelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nonInfelix&theme=vue-dark&hide_border=true)
 
 <h3 align="left">Languages</h3>
